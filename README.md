@@ -8,3 +8,6 @@ CIEBAT operates through a systematic, multi-step process designed to deliver a t
 - Analysis of System Services: This initial step(s) involve a detailed selection and examination of the energy system’s operational services.
 - Consequence-Focused Analysis: In this step(s), the tool guides a user through a CIE consequence analysis to assess the potential impacts of system failures or cyber incidents in relation to organizational risk tolerances.
 - Cyber-Informed Engineering Mitigation Analysis: In the final step(s), the tool guides a user through a CIE mitigation analysis to identify mitigation opportunities to consider for the microgrid site installation.
+
+## Support
+For questions or clarifications, please contact us via email at [cie@inl.gov](mailto:cie@inl.gov).
